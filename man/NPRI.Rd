@@ -8,7 +8,7 @@ National Pollutant Release Inventory (NPRI) for Canada, 1993-2012
 A dataset containing NPRI entries for the period of 1993 to 2012. 
 }
 \usage{
-load(NPRI)
+NPRI
 }
 \format{
 A data frame with 470641 observations on 81 variables.
