@@ -11,7 +11,90 @@ A dataset containing NPRI entries for the period of 1993 to 2012.
 NPRI
 }
 \format{
-A data frame with 470641 observations on 81 variables.
+A data frame with 470641 observations on 81 variables. This data frame contains the following columns:
+  \describe{
+    \item{\code{NPRI_ID}}{}
+    \item{\code{ReportingPeriod}}{}
+    \item{\code{CAS}}{}
+    \item{\code{SubstanceDescription}}{}
+    \item{\code{UnitsEdit}}{}
+    \item{\code{UnitsStorage}}{}
+    \item{\code{Release}}{}
+    \item{\code{AirStackEstimate/code}}{}
+    \item{\code{AirStackDetail/code}}{}
+    \item{\code{AirStackNumber}}{}
+    \item{\code{AirStackValue}}{}
+    \item{\code{AirStorageEstimate/code}}{}
+    \item{\code{AirStorageDetail/code}}{}
+    \item{\code{AirStorageValue}}{}
+    \item{\code{AirFugitiveEstimate/code}}{}
+    \item{\code{AirFugitiveDetail/code}}{}
+    \item{\code{AirFugitiveValue}}{}
+    \item{\code{AirSpillsEstimate/code}}{}
+    \item{\code{AirSpillsDetail/code}}{}
+    \item{\code{AirSpillsValue}}{}
+    \item{\code{AirOtherEstimate/code}}{}
+    \item{\code{AirOtherDetail/code}}{}
+    \item{\code{AirOtherValue}}{}
+    \item{\code{TotalRoadReleases}}{}
+    \item{\code{TotalAirReleases}}{}
+    \item{\code{WaterDischargeEstimate/code}}{}
+    \item{\code{WaterDischargeDetail/code}}{}
+    \item{\code{WaterDischargeValue}}{}
+    \item{\code{WaterDischargeNumber}}{}
+    \item{\code{WaterSpillsEstimate/code}}{}
+    \item{\code{WaterSpillsDetail/code}}{}
+    \item{\code{WaterSpillsValue}}{}
+    \item{\code{WaterSpillsNumber}}{}
+    \item{\code{WaterLeaksEstimate/code}}{}
+    \item{\code{WaterLeaksDetail/code}}{}
+    \item{\code{WaterLeaksValue}}{}
+    \item{\code{WaterLeaksNumber}}{}
+    \item{\code{TotalWaterReleases}}{}
+    \item{\code{LandSpillsEstimate/code}}{}
+    \item{\code{LandSpillsDetail/code}}{}
+    \item{\code{LandSpillsValue}}{}
+    \item{\code{LandLeaksEstimate/code}}{}
+    \item{\code{LandLeaksDetail/code}}{}
+    \item{\code{LandLeaksValue}}{}
+    \item{\code{LandOtherEstimate/code}}{}
+    \item{\code{LandOtherDetail/code}}{}
+    \item{\code{LandOtherValue}}{}
+    \item{\code{TotalLandReleases}}{}
+    \item{\code{TotalReleased}}{}
+    \item{\code{TotalForAllReleases}}{}
+    \item{\code{TotalReleasesEstimate/code}}{}
+    \item{\code{TotalReleasesDetail/code}}{}
+    \item{\code{RoadDustEstimate/code}}{}
+    \item{\code{RoadDustDetail/code}}{}
+    \item{\code{RoadDustValue}}{}
+    \item{\code{SpeciatedVOC}}{}
+    \item{\code{LastReportYear}}{}
+    \item{\code{CompanyName}}{}
+    \item{\code{FacilityName}}{}
+    \item{\code{Address_1}}{}
+    \item{\code{Address_2}}{}
+    \item{\code{City}}{}
+    \item{\code{Postal_Zip}}{}
+    \item{\code{PhysicalLandSurveyDescription}}{}
+    \item{\code{PhysicalNationalTopographicalDescription}}{}
+    \item{\code{Province_2}}{}
+    \item{\code{Latitude}}{}
+    \item{\code{Longitude}}{}
+    \item{\code{Datum}}{}
+    \item{\code{IntuitiveSector/code}}{}
+    \item{\code{IntuitiveSectorName}}{}
+    \item{\code{CensusSubDivisionID}}{}
+    \item{\code{CensusSubDivisionName}}{}
+    \item{\code{CMA_ID}}{}
+    \item{\code{CMA_Name}}{}
+    \item{\code{CDU_ID}}{}
+    \item{\code{CD_Name}}{}
+    \item{\code{EconomicRegionID}}{}
+    \item{\code{EconomicRegionName}}{}
+    \item{\code{EcozoneID}}{}
+    \item{\code{EcozoneName}}{}
+  }
 }
 \source{
 The data were obtained from Environment Canada.
