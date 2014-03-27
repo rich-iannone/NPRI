@@ -20,53 +20,53 @@ A data frame with 470641 observations on 81 variables. This data frame contains 
     \item{\code{UnitsEdit}}{the units that were used in reporting (e.g., tonnes, kg, grams, gram(me)s, g TEQ(ET), etc.)}
     \item{\code{UnitsStorage}}{the units that were finally stored in the database after normalization}
     \item{\code{Release}}{states whether the substance was released on-site}
-    \item{\code{AirStackEstimate}}{stack release to air: basis of estimate code}
-    \item{\code{AirStackDetail}}{stack release to air: basis of detail code}
+    \item{\code{AirStackEstimateCode}}{stack release to air: basis of estimate code}
+    \item{\code{AirStackDetailCode}}{stack release to air: basis of detail code}
     \item{\code{AirStackNumber}}{stack release to air: }
     \item{\code{AirStackValue}}{stack release to air: value}
-    \item{\code{AirStorageEstimate}}{storage release to air: basis of estimate code}
-    \item{\code{AirStorageDetail}}{storage release to air: basis of detail code}
+    \item{\code{AirStorageEstimateCode}}{storage release to air: basis of estimate code}
+    \item{\code{AirStorageDetailCode}}{storage release to air: basis of detail code}
     \item{\code{AirStorageValue}}{storage release to air: value}
-    \item{\code{AirFugitiveEstimate}}{fugitive release to air: basis of estimate code}
-    \item{\code{AirFugitiveDetail}}{fugitive release to air: basis of detail code}
+    \item{\code{AirFugitiveEstimateCode}}{fugitive release to air: basis of estimate code}
+    \item{\code{AirFugitiveDetailCode}}{fugitive release to air: basis of detail code}
     \item{\code{AirFugitiveValue}}{fugitive release to air: value}
-    \item{\code{AirSpillsEstimate}}{spills release to air: basis of estimate code}
-    \item{\code{AirSpillsDetail}}{spills release to air: basis of detail code}
+    \item{\code{AirSpillsEstimateCode}}{spills release to air: basis of estimate code}
+    \item{\code{AirSpillsDetailCode}}{spills release to air: basis of detail code}
     \item{\code{AirSpillsValue}}{spills release to air: value}
-    \item{\code{AirOtherEstimate}}{other non-point release to air: basis of estimate code}
-    \item{\code{AirOtherDetail}}{other non-point release to air: basis of detail code}
+    \item{\code{AirOtherEstimateCode}}{other non-point release to air: basis of estimate code}
+    \item{\code{AirOtherDetailCode}}{other non-point release to air: basis of detail code}
     \item{\code{AirOtherValue}}{other non-point release to air: value}
     \item{\code{TotalRoadReleases}}{total releases from road to air}
     \item{\code{TotalAirReleases}}{total releases to air}
-    \item{\code{WaterDischargeEstimate}}{direct discharges to surface waters: basis of estimate code}
-    \item{\code{WaterDischargeDetail}}{direct discharges to surface waters: basis of detail code}
+    \item{\code{WaterDischargeEstimateCode}}{direct discharges to surface waters: basis of estimate code}
+    \item{\code{WaterDischargeDetailCode}}{direct discharges to surface waters: basis of detail code}
     \item{\code{WaterDischargeValue}}{direct discharges to surface waters: value}
     \item{\code{WaterDischargeNumber}}{direct discharges to surface waters: }
-    \item{\code{WaterSpillsEstimate}}{spills release to surface waters: basis of estimate code}
-    \item{\code{WaterSpillsDetail}}{spills release to surface waters: basis of detail code}
+    \item{\code{WaterSpillsEstimateCode}}{spills release to surface waters: basis of estimate code}
+    \item{\code{WaterSpillsDetailCode}}{spills release to surface waters: basis of detail code}
     \item{\code{WaterSpillsValue}}{spills release to surface waters: value}
     \item{\code{WaterSpillsNumber}}{spills release to surface waters: }
-    \item{\code{WaterLeaksEstimate}}{leaks release to surface waters: basis of estimate code}
-    \item{\code{WaterLeaksDetail}}{leaks release to surface waters: basis of detail code}
+    \item{\code{WaterLeaksEstimateCode}}{leaks release to surface waters: basis of estimate code}
+    \item{\code{WaterLeaksDetailCode}}{leaks release to surface waters: basis of detail code}
     \item{\code{WaterLeaksValue}}{leaks release to surface waters: value}
     \item{\code{WaterLeaksNumber}}{leaks release to surface waters: }
     \item{\code{TotalWaterReleases}}{total releases to surface waters: }
-    \item{\code{LandSpillsEstimate}}{spills release to land: basis of estimate code}
-    \item{\code{LandSpillsDetail}}{spills release to land: }
+    \item{\code{LandSpillsEstimateCode}}{spills release to land: basis of estimate code}
+    \item{\code{LandSpillsDetailCode}}{spills release to land: }
     \item{\code{LandSpillsValue}}{spills release to land: value}
-    \item{\code{LandLeaksEstimate}}{leaks release to land: basis of estimate code}
-    \item{\code{LandLeaksDetail}}{leaks release to land: basis of detail code}
+    \item{\code{LandLeaksEstimateCode}}{leaks release to land: basis of estimate code}
+    \item{\code{LandLeaksDetailCode}}{leaks release to land: basis of detail code}
     \item{\code{LandLeaksValue}}{leaks release to land: value}
-    \item{\code{LandOtherEstimate}}{other release to land: basis of estimate code}
-    \item{\code{LandOtherDetail}}{other release to land: basis of detail code}
+    \item{\code{LandOtherEstimateCode}}{other release to land: basis of estimate code}
+    \item{\code{LandOtherDetailCode}}{other release to land: basis of detail code}
     \item{\code{LandOtherValue}}{other release to land: value}
     \item{\code{TotalLandReleases}}{total releases to land: }
     \item{\code{TotalReleased}}{total releases to air, water, and land}
     \item{\code{TotalForAllReleases}}{total Releases from all media, excluding road dust}
-    \item{\code{TotalReleasesEstimate}}{total releases to air, water, and land: basis of estimate code}
-    \item{\code{TotalReleasesDetail}}{total releases to air, water, and land: basis of detail code}
-    \item{\code{RoadDustEstimate}}{road dust: basis of estimate code}
-    \item{\code{RoadDustDetail}}{road dust: basis of detail code}
+    \item{\code{TotalReleasesEstimateCode}}{total releases to air, water, and land: basis of estimate code}
+    \item{\code{TotalReleasesDetailCode}}{total releases to air, water, and land: basis of detail code}
+    \item{\code{RoadDustEstimateCode}}{road dust: basis of estimate code}
+    \item{\code{RoadDustDetailCode}}{road dust: basis of detail code}
     \item{\code{RoadDustValue}}{road dust: value}
     \item{\code{SpeciatedVOC}}{states whether the substance is a speciated VOC}
     \item{\code{LastReportYear}}{the last year that the facility submitted an NPRI report}
@@ -82,7 +82,7 @@ A data frame with 470641 observations on 81 variables. This data frame contains 
     \item{\code{Latitude}}{the latitude for the facility, in decimal degrees}
     \item{\code{Longitude}}{the longitude for the facility, in decimal degrees}
     \item{\code{Datum}}{the GIS datum (in NAD 1983) used for the location information pertaining to the facility}
-    \item{\code{IntuitiveSector}}{the ID number for the intuitive sector}
+    \item{\code{IntuitiveSectorCode}}{the ID number for the intuitive sector}
     \item{\code{IntuitiveSectorName}}{the intuitive sector name (e.g., "Chemicals", "Wood Products", "Plastics and Rubber", etc.)}
     \item{\code{CensusSubDivisionID}}{the ID number for the census subdivision for which the facility resides}
     \item{\code{CensusSubDivisionName}}{the name of the census subdivision for which the facility resides}
