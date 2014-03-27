@@ -97,7 +97,7 @@ A data frame with 470641 observations on 81 variables. This data frame contains 
   }
 }
 \source{
-The data were obtained from Environment Canada.
+The data were obtained from Environment Canada (http://www.ec.gc.ca/inrp-npri/).
 }
 \examples{
 head(NPRI)
