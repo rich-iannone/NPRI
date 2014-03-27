@@ -7,6 +7,6 @@ Author: Richard Iannone <riannone@me.com>
 Maintainer: Richard Iannone <riannone@me.com>
 License: MIT
 Description: An NPRI dataset.
-Depends:
-    R (>= 2.10)
+Encoding: UTF-8
+Depends: R (>= 2.10)
 LazyData: true
