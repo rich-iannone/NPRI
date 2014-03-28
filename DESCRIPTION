@@ -5,7 +5,7 @@ Version: 0.1
 Date: 2014-03-25
 Author: Richard Iannone <riannone@me.com>
 Maintainer: Richard Iannone <riannone@me.com>
-License: MIT | file LICENCE
+License: MIT + file LICENSE
 Description: An NPRI dataset.
 Encoding: UTF-8
 Depends: R (>= 2.10)
