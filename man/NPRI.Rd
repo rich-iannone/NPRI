@@ -11,7 +11,7 @@ A dataset containing NPRI entries for the period of 1993 to 2012.
 NPRI
 }
 \format{
-A data frame with 470641 observations on 81 variables. This data frame contains the following columns:
+A data frame with 470641 observations on 79 variables. This data frame contains the following columns:
   \describe{
     \item{\code{NPRI_ID}}{the ID number for the facility}
     \item{\code{ReportingPeriod}}{the year of the report}
@@ -76,8 +76,6 @@ A data frame with 470641 observations on 81 variables. This data frame contains 
     \item{\code{Address_2}}{the second address line for the facility}
     \item{\code{City}}{the city in which the facility resides}
     \item{\code{Postal_Zip}}{the postal code or zip code for the facility}
-    \item{\code{PhysicalLandSurveyDescription}}{a physical land survey description}
-    \item{\code{PhysicalNationalTopographicalDescription}}{a physical national topographical description}
     \item{\code{Province_2}}{the abbreviated form of the province for which the facility resides}
     \item{\code{Latitude}}{the latitude for the facility, in decimal degrees}
     \item{\code{Longitude}}{the longitude for the facility, in decimal degrees}
