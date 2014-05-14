@@ -3,6 +3,8 @@
 
 # Example code in package build process
 *-Ex.R
+
+# R projects and builds
 *.Rproj
 .Rproj.user
 .Rbuildignore
