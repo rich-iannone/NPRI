@@ -11,7 +11,7 @@ A dataset containing NPRI entries for the period of 1993 to 2012.
 NPRI
 }
 \format{
-A data frame with 470641 observations on 79 variables. This data frame contains the following columns:
+A data frame with 470,641 observations on 79 variables. This data frame contains the following columns:
   \describe{
     \item{\code{NPRI_ID}}{the ID number for the facility}
     \item{\code{ReportingPeriod}}{the year of the report}
